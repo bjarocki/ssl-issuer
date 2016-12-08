@@ -1,0 +1,4 @@
+pydisque
+pyOpenSSL
+PyYAML
+requests
